@@ -1,0 +1,6 @@
+[submodule "avr-uart"]
+	path = avr-uart
+	url = https://github.com/andygock/avr-uart
+[submodule "rcswitch-avr"]
+	path = rcswitch-avr
+	url = https://github.com/YannCodes/rcswitch-avr
